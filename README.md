@@ -13,7 +13,7 @@ TravelPlanner is a comprehensive travel organization app that helps users plan, 
 
 ## Tech Stack
 
-- **UI Framework**: UIKit with programmatic layouts
+- **UI Framework**: Swift UIKit with programmatic layouts
 - **Architecture**: MVVM + Coordinator pattern
 - **Persistence**: Core Data with multi-context setup
 - **Networking**: URLSession with async/await pattern
