@@ -5,11 +5,9 @@ TravelPlanner is a comprehensive travel organization app that helps users plan, 
 ## Features
 
 - 🗺️ **Trip Creation & Management**: Create, edit, and organize multiple trips
-- 📍 **Destination Explorer**: Discover and save points of interest
 - 📝 **Itinerary Builder**: Create detailed day-by-day schedules
 - 🧳 **Packing Lists**: Smart lists with categories and completion tracking
 - 💰 **Budget Tracker**: Record and categorize travel expenses
-- 📸 **Travel Journal**: Document your travels with photos and notes
 - 🔔 **Smart Reminders**: Never miss important travel events
 - 🌐 **Offline Support**: Access your plans even without internet
 
